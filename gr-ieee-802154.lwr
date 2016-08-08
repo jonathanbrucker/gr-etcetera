@@ -25,4 +25,4 @@ depends:
 description: IEEE 802.15.4 ZigBee Transceiver
 gitbranch: master
 inherit: cmake
-source: git+https://github.com/bastibl/gr-ieee802-15-4.git
+source: git+https://github.com/jonathanbrucker/gr-ieee802-15-4.git
